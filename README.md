@@ -36,7 +36,7 @@ I'm a Backend Developer from Iran.
 -->
 
 ### GitHub Statistics
-[![Mohammad Taheri GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadtaherri&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammad Taheri GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadtaherri&show_icons=true&theme=nord&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
